@@ -34,3 +34,9 @@ This work is shared for academic purposes only.
 
 For collaboration, questions, or discussion:  
 📧 escellem@gmail.com
+
+## 📣 Featured
+
+This project was introduced at the Global Education Exhibition.  
+🧠 See the original concept post on LinkedIn: [View post](https://www.linkedin.com/posts/escelle-mekhallalati-602888333_educationglobalexhibition-ai-braininspiredai-activity-7317178442339287040-4I-j)
+
